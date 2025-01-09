@@ -1,2 +1,8 @@
 # super-duper-octo-telegram
-testowanie
+### headline 3
+
+**bold**
+
+*italic*
+
+md --> MarkDown - różne opcje edytowania readme
