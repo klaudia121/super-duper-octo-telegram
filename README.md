@@ -5,4 +5,4 @@
 
 *italic*
 
-md --> MarkDown - różne opcje edytowania readme
+md --> MarkDown - edytowania readme
