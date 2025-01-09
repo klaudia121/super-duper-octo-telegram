@@ -4,5 +4,3 @@
 **bold**
 
 *italic*
-
-md --> MarkDown - edytowania readme
